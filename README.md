@@ -1,5 +1,5 @@
 # Rules
-Group Study Rules for "365DaysTo"
+Study Rules for "365DaysTo"
 
 1. You can study alone or with friends, we highly recommend to form a study group =)
 2. Create a repo called something in the likes of "365DaysToWhaterverYouWantToStudy" 
